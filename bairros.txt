@@ -1,0 +1,68 @@
+- Alto Maron: R$ 7,00
+- Antique: R$ 10,00
+- Avenida Ilhéus: R$ 7,00
+- Bairro De Fátima: R$ 8,00
+- Bananeira: R$ 8,00
+- Banco Raso: R$ 8,00
+- Br101: R$ 10,00
+- Califórnia: R$ 10,00
+- Campo Formoso: R$ 10,00
+- Castália: R$ 6,00
+- Centro: R$ 6,00
+- Centro Comercial: R$ 6,00
+- Cidadelle: R$ 15,00
+- Conceição: R$ 8,00
+- Corbiniano Freire: R$ 6,00
+- Daniel Gomes: R$ 10,00
+- Fonseca: R$ 11,00
+- Góes Calmon: R$ 8,00
+- Jardim Alamar: R$ 5,00
+- Jardim América: R$ 12,00
+- Jardim Das Acácias: R$ 15,00
+- Jardim Das Hortências: R$ 15,00
+- Jardim Grapiúna: R$ 6,00
+- Jardim Italamar: R$ 5,00
+- Jardim Primavera: R$ 11,00
+- Jardim Vitória: R$ 8,00
+- Jaçanã: R$ 11,00
+- Jorge Amado: R$ 12,00
+- João Soares: R$ 10,00
+- Juracy Magalhães: R$ 8,00
+- Lomanto: R$ 10,00
+- Mangabinha: R$ 7,00
+- Manuel Leão: R$ 10,00
+- Maria Pinheiro: R$ 12,00
+- Monte Cristo: R$ 10,00
+- Monte Líbano: R$ 7,00
+- Nossa Senhora Das Graças: R$ 7,00
+- Nova Califórnia: R$ 12,00
+- Nova Itabuna: R$ 10,00
+- Nova Mangabinha: R$ 8,00
+- Novo Fonseca: R$ 12,00
+- Novo Horizonte : R$ 6,00
+- Novo Lomanto : R$ 12,00
+- Novo São Caetano: R$ 12,00
+- Novo São Lourenço: R$ 6,00
+- Odilon: R$ 10,00
+- Parque Boa Vista: R$ 11,00
+- Parque São João: R$ 6,00
+- Parque Verde: R$ 11,00
+- Pedro Fontes: R$ 10,00
+- Pedro Gerônimo: R$ 10,00
+- Pontalzinho: R$ 6,00
+- Santa Catarina: R$ 8,00
+- Santa Clara: R$ 11,00
+- Santa Inês: R$ 10,00
+- Santo Antônio: R$ 5,00
+- Sarinha: R$ 11,00
+- São Caetano: R$ 10,00
+- São Judas: R$ 10,00
+- São Lourenço: R$ 5,00
+- São Pedro: R$ 10,00
+- São Roque: R$ 8,00
+- Urbis Iv: R$ 12,00
+- Vale Do Sol: R$ 12,00
+- Vila Anália: R$ 11,00
+- Vila Zara: R$ 8,00
+- Zildolândia: R$ 6,00
+- Zizo: R$ 11,00
