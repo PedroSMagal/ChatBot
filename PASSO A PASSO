@@ -7,12 +7,22 @@ Passo 2:
 Ativar API: https://console.cloud.google.com/apis/api/generativelanguage.googleapis.com/metrics?project=sunny-truth-496211-c0
 Pesquisar: "Generative Language API"
 
+Passo 3:
+
+Ver qual versão do seu gemini é no link: https://aistudio.google.com/rate-limit?utm_source=chatgpt.com&timeRange=last-28-days&project=gen-lang-client-0829705353
+
+Passo 4:
+
 Baixe o código main
 
-Passo 2: (TERMINAL)
-pip install google-generativeai requests pillow
+Passo 5:
 
-Passo 3: (TERMINAL)
+Coloca a sua API e modifica a versão se for diferente (tem variavel pros dois só procurar no topo)
+
+Passo 6: (TERMINAL)
+pip install google-genai pillow requests
+
+Passo 7: (TERMINAL)
 
 py main.py
 
