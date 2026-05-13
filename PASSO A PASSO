@@ -1,0 +1,10 @@
+Passo 1:
+
+Baixe o código main
+
+Passo 2: (TERMINAL)
+pip install google-generativeai requests pillow
+
+Passo 3: (TERMINAL)
+
+py main.py
